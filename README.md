@@ -4,7 +4,7 @@
 
 I am an offensive security practitioner with an interest in Red Team operations, penetration testing, and the application of artificial intelligence in cybersecurity. My focus is on understanding real-world attack techniques and using both traditional security tools and modern AI approaches to strengthen system defenses.
 
-## I currently working on?
+## currently working on?
 
 - Practicing advanced penetration testing techniques  
 - Studying web application and network vulnerabilities  
