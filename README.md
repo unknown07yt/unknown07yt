@@ -1,16 +1,31 @@
-## Hi there 👋
+# Red Team Operator | Penetration Tester
 
-<!--
-**unknown07yt/unknown07yt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Offensive security professional focused on identifying and exploiting security weaknesses through controlled and authorized testing.
 
-Here are some ideas to get you started:
+## Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Red Team Operations
+- Network Penetration Testing
+- Web Application Security
+- Active Directory Security
+- Vulnerability Research
+- Post-Exploitation Techniques
+
+## Technologies & Tools
+
+- Python
+- Bash
+- PowerShell
+- Kali Linux
+- Burp Suite
+- Nmap
+- Metasploit
+- Wireshark
+
+## Professional Interests
+
+I am interested in adversary simulation, exploit research, and improving defensive security by identifying vulnerabilities in systems, networks, and applications.
+
+## Disclaimer
+
+All content and projects shared in this repository are intended strictly for educational purposes and authorized security testing.
