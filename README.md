@@ -15,7 +15,7 @@ I am an offensive security practitioner with an interest in Red Team operations,
 
 - Kali Linux  
 - Nmap  
-- beef
+- Beef
 - Burp Suite  
 - Metasploit  
 - Wireshark  
